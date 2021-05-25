@@ -1,2 +1,5 @@
 # direnv cache
 .direnv
+
+# pip libraries and scripts
+pip
