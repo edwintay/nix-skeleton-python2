@@ -11,6 +11,10 @@ let
       # package
       pip
       setuptools
+
+      # lint
+      flake8
+      pylint
     ];
 
     # python2 packages don't honor PEP420 and might have modules with
